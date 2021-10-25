@@ -1051,7 +1051,7 @@ def map300_manuelStimulation_4players():
     person_Three_Image.set_colorkey(alpha)
 
     # person four image
-    person_Four_Image = pygame.image.load(os.path.join('images', "green.jpg"))
+    person_Four_Image = pygame.image.load(os.path.join('images', "green.png"))
     person_Four_Image.convert_alpha()
     person_Four_Image.set_colorkey(alpha)
 
@@ -1645,7 +1645,7 @@ def random_stimulation_simple_4player():
     person_Three_Image.set_colorkey(alpha)
 
     # person four image
-    person_Four_Image = pygame.image.load(os.path.join('images', "green.jpg"))
+    person_Four_Image = pygame.image.load(os.path.join('images', "green.png"))
     person_Four_Image.convert_alpha()
     person_Four_Image.set_colorkey(alpha)
 
@@ -1923,7 +1923,7 @@ def random_stimulation_moderate_4player():
     person_Three_Image.set_colorkey(alpha)
 
     # person four image
-    person_Four_Image = pygame.image.load(os.path.join('images', "green.jpg"))
+    person_Four_Image = pygame.image.load(os.path.join('images', "green.png"))
     person_Four_Image.convert_alpha()
     person_Four_Image.set_colorkey(alpha)
 
@@ -2199,7 +2199,7 @@ def random_stimulation_complex_4player():
     person_Three_Image.set_colorkey(alpha)
 
     # person four image
-    person_Four_Image = pygame.image.load(os.path.join('images', "green.jpg"))
+    person_Four_Image = pygame.image.load(os.path.join('images', "green.png"))
     person_Four_Image.convert_alpha()
     person_Four_Image.set_colorkey(alpha)
 
@@ -2537,7 +2537,7 @@ def random_stimulation_userDefined_4player():
     person_Three_Image.set_colorkey(alpha)
 
     # person four image
-    person_Four_Image = pygame.image.load(os.path.join('images', "green.jpg"))
+    person_Four_Image = pygame.image.load(os.path.join('images', "green.png"))
     person_Four_Image.convert_alpha()
     person_Four_Image.set_colorkey(alpha)
 
